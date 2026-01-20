@@ -41,4 +41,4 @@ Detecting low-quality AI-generated content efficiently.
 
 - Website: [https://pranmod01.github.io](https://pranmod01.github.io)  
 - GitHub: [https://github.com/pranmod01](https://github.com/pranmod01)  
-- Email: pm3361 [at] columbia [dot] edu
+- Email: [pm3361@columbia.edu](mailto:pm3361@columbia.edu)
