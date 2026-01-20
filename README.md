@@ -1,6 +1,6 @@
 # Hi, I'm Pranati 👋
 
-I work at the intersection of messy human data and intelligent systems, using ML to understand how humans and AI make decisions. I build pipelines that extract reliable signals from neural activity, evaluate reasoning under pressure, and structure large-scale, unstructured information.
+I work at the intersection of human data and intelligent systems, building ML pipelines to understand human and AI decision-making.
 
 **Currently:** MS in CS at Columbia (neural decoding, neuro-inspired ML)  
 **Previously:** Shipped production ML at Disney Streaming
