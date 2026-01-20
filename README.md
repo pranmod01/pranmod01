@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hi, I'm Pranati 👋
 
-<!--
-**pranmod01/pranmod01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build ML systems that extract reliable signals from complex, noisy data—whether that's decoding intent from neural activity, evaluating AI reasoning under adversarial conditions, or making sense of massive research corpora.
 
-Here are some ideas to get you started:
+Currently: MS in CS at Columbia, working on neural decoding and neuro-inspired ML architectures. 
+Previously: shipped production ML at Disney Streaming.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Core research areas
+🧠 Neural signal processing & BCIs
+Building robust classifiers for physiological data where noise, artifacts, and confounds are the norm. Focus: turning messy EEG/eye-tracking signals into actionable predictions about human cognitive states.
+🤖 AI robustness & evaluation
+Testing whether AI systems maintain reliable reasoning under adversarial pressure, distribution shift, and edge cases. Focus: finding failure modes before they matter.
+📚 Knowledge systems & retrieval
+Building infrastructure for organizing and accessing complex information at scale. Focus: making large knowledge bases actually usable for both humans and AI systems.
